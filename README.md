@@ -1,5 +1,6 @@
 # SelectionSort
 Initialize project Selection Sort
+
 SelectionSort.java file
 
 This program SelectionSort creates an integer array of numeric
