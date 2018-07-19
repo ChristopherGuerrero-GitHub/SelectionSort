@@ -21,6 +21,8 @@ public class SelectionSort {
            
         
         */
+    	
+    	//create integer array
         
         int [] numbers = { 67, 78, 4, 15, 47, 30, 99, 33, 65, 85 };
                 
